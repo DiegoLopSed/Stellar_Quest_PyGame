@@ -1,6 +1,6 @@
 # Estellar Quest
 
-![Estellar Quest Banner](assets/banner.png)
+![Estellar Quest Banner](assets/banner.jpg)
 
 ## Descripción
 **Estellar Quest** es un videojuego interactivo desarrollado en **Python** utilizando la biblioteca **Pygame**. Este proyecto combina mecánicas desafiantes, personalización de experiencia y una atmósfera espacial inmersiva, orientado a proporcionar tanto entretenimiento como aprendizaje en desarrollo de videojuegos.
@@ -33,39 +33,12 @@
 - **Música de Ambiente**:
   - Banda sonora inmersiva con control de volumen.
 
-## Instalación
-1. Clona este repositorio:
-   ```bash
-   git clone https://github.com/usuario/estellar-quest.git
-   ```
-2. Ve al directorio del proyecto:
-   ```bash
-   cd estellar-quest
-   ```
-3. Instala las dependencias necesarias:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Ejecuta el juego:
-   ```bash
-   python main.py
-   ```
-
 ## Requerimientos del Sistema
 - **Sistema Operativo**: Windows, macOS o Linux.
 - **Python**: Versión 3.10 o superior.
 - **Bibliotecas**:
   - `pygame`
 
-## Estructura del Proyecto
-```
-Estellar-Quest/
-├── assets/          # Recursos del juego (imágenes, música, etc.)
-├── src/             # Código fuente del juego
-├── README.md        # Documentación del proyecto
-├── requirements.txt # Dependencias
-└── main.py          # Archivo principal
-```
 
 ## Contribuciones
 Las contribuciones son bienvenidas. Para contribuir:
