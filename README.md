@@ -18,7 +18,7 @@
   - Elección entre dos temas visuales.
   - Selección de skins para el jugador.
 
-![Personalización](assets/customization_preview.png)
+![Personalización](assets/customization_preview.jpg)
 
 - **Selección de Niveles Dinámica**:
   - Progreso basado en niveles desbloqueables.
@@ -28,7 +28,7 @@
   - Sprint temporal que inhabilita colisiones.
   - Recolección de estrellas y esquiva de obstáculos como asteroides y meteoritos.
 
-![Jugabilidad](assets/gameplay_preview.png)
+![Jugabilidad](assets/gameplay_preview.jpg)
 
 - **Música de Ambiente**:
   - Banda sonora inmersiva con control de volumen.
@@ -80,13 +80,11 @@ Las contribuciones son bienvenidas. Para contribuir:
    ```
 4. Envía un pull request.
 
-## Licencia
-Este proyecto está licenciado bajo la [MIT License](LICENSE).
 
 ## Contacto
 Para preguntas o sugerencias, puedes contactarme en:
-- **Email**: ejemplo@email.com
-- **GitHub**: [usuario](https://github.com/usuario)
+- **Email**: diegolopsed160703@gmail.com
+- **GitHub**: [DiegoLopSed](https://github.com/DiegoLopSed)
 
 ---
 
